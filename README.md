@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 I am a computer engineer interested towards the field of artificial intelligence.
 
-- 💻 I’m currently working as a senior machine learning engineer
-- 🎓 I'm also pursuing my masters in knowledge engineering
-- 😇 I believe in hard work
+- 💻 I’m currently working as a Senior Machine Learning Engineer @ Stepstone
+- 🤖 I work with natural language processing systems, especially generative models
+- 😇 I am learning React JS and Flutter Development at the moment
 
 
 
